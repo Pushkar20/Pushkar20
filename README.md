@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=800&pause=500&center=true&vCenter=true&width=600&height=80&lines=Hello+World!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE;Hallo+Welt!;Ciao+Mondo!;Bonjour+le+monde!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C)](https://git.io/typing-svg)
 
 <!--
 **Pushkar20/Pushkar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
