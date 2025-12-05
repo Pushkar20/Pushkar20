@@ -50,7 +50,11 @@ This page is just a small reflection of that curiosity. I’ve made it to showca
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/>
 </div>
 
+---
 
+<a href="https://pushkarpatil-resume.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Website-white?style=for-the-badge&logo=vercel&logoColor=000000" />
+</a>
 
 ---
 ## Reach me at
