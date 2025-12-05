@@ -6,15 +6,14 @@
        width="400" 
        style="margin-left: 20px; margin-bottom: 10px; border-radius: 15px;"/>
 </p>
-Hi, I'm <b>Pushkar Patil</b>, a passionate Software Developer with <b>2.5+ years</b> of industrial experience in <b>Automotive Software</b>, <b>Automation</b> and <b>Embedded systems</b>.
 
-I specialize in <b>Python</b>, <b>C++</b>, and communication protocols like <b>CAN</b> and <b>Ethernet</b>. Over the years, I’ve worked across the entire <b>software development lifecycle (SDLC)</b>, from designing and coding to validation and optimization — always aiming to build systems that are <b>reliable</b>, <b>scalable</b> and <b>efficient</b>.
+Hi, I'm **Pushkar**. Currently employed by **Mercedes-Benz**, where I build systems that behave better than most humans and cars that panic less than my compiler. Most of my day is spent preventing **AI models** from attempting mutiny and stopping **testbenches** from triggering unauthorized reboot sequences at **2 AM**.
 
-Currently, I’m working at <b>Mercedes-Benz</b> where I’ve built and maintain a <b>farm of 100+ automated testbenches</b> used across the organization for testing and validation, with full <b>CI/CD integration</b>.
+I write **Python** like I’m patching a live spacecraft, **C++** like I’m disarming a bomb with a laggy terminal, and **automation scripts** that occasionally ping me back asking “who gave you permission to run this?” I somehow became the designated handler for **CI pipelines** that try to escape the network and the official investigator of **logs** that absolutely should not be sentient.
 
-Beyond my core work, I love exploring <b>AI-driven automation tools</b> and creative <b>AI projects</b> that blend technology with imagination 🚀. When I’m not coding, I’m usually experimenting with ideas that connect <b>software</b> and <b>hardware</b> — anything that challenges me to think differently.
+If you see sparks coming from a **server rack**, relax, that’s just me forcing reality to comply with `sudo fix-everything`. My **bugs** are freelance mercenaries, my **fixes** violate at least three documented protocols, and my **testbenches** have learned not to question my methods.
 
-This page is just a small reflection of that curiosity. I’ve made it to showcase what's possible when <b>creativity meets the right tools</b> 🤖✨
+Welcome to my **GitHub**. Watch your step — some of the **builds bite**.
 
 ---
 ## Skills <img src="https://github.com/user-attachments/assets/ba8f90aa-1b7d-44cc-a71e-20a531207246" width="25">
